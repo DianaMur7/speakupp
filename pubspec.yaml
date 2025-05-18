@@ -30,6 +30,12 @@ dependencies:
 #  image_cropper: ^5.0.1
   speech_to_text: ^6.5.0
   google_maps_flutter: ^2.6.0
+  azure_speech_recognition_null_safety: ^0.9.5
+  # flutter_tts: ^4.0.2
+  dart_openai: ^5.1.0
+  audioplayers: ^6.0.0
+  video_player: ^2.8.6
+  permission_handler: ^11.3.1
 
 
 dev_dependencies:
